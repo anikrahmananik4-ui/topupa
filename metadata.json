@@ -1,0 +1,6 @@
+{
+  "name": "Prime Top Up",
+  "description": "Gaming top-up shop & admin management panel for games, packages, orders, and wallet deposits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
